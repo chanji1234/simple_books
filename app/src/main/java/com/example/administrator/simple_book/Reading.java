@@ -12,7 +12,6 @@ public class Reading extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.reading);
     }
-    public void btnBack6(View view) {
-        startActivity(new Intent(this, Read.class));
+    public void btnBack6(View view) { startActivity(new Intent(this, Read.class));
     }
 }

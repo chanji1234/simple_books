@@ -7,10 +7,9 @@
     tools:context="com.example.administrator.simple_book.Read">
 
     <ListView
-        android:id="@+id/listView_read"
+        android:id="@+id/lv"
         android:layout_width="match_parent"
         android:layout_height="500dp"
-        android:entries="@array/list"
         />
 
     <Button

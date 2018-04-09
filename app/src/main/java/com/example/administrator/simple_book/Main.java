@@ -17,9 +17,6 @@ public class Main extends AppCompatActivity {
         startActivity(new Intent(this, Read.class));
     }
     public void btnWrite(View view) {
-            startActivity(new Intent(this, Write.class));
-    }
-    public void btnHistory(View view) {
-        startActivity(new Intent(this, History.class));
+        startActivity(new Intent(this, Write.class));
     }
 }

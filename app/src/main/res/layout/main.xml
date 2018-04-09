@@ -58,7 +58,6 @@
             android:background="@color/colorPrimary"
             android:gravity="center"
             android:text="History"
-            android:onClick="btnHistory"
             android:textColor="@android:color/white" />
 
     </LinearLayout>
